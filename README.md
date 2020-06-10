@@ -1,6 +1,6 @@
 # Weather App using Express.js
 
-![Express]('./express.readme.png');
+![Express](express.readme.png);
 
 ## What is it?
 A weather application that interacts with the MapBox and Weather Stack APIs
