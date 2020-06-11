@@ -13,6 +13,11 @@ body {
     flex-grow: 1;
 }
 
+.main-content .link {
+    text-decoration: none;  
+    color: #835a5a;
+}
+
 footer {
   color: #888888;
   border-top: 1px solid #eeeeee;
@@ -52,3 +57,4 @@ button {
     color: #fafafa;
     padding: 8px;
 }
+
